@@ -1,6 +1,6 @@
 {
     "name": "Node.js & npm",
-    "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:0-lts",
+    "image": "node:16-buster",
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
     },
